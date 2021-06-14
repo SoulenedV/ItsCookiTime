@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\api",
+    "\\api\\migrations",
+    "\\clicker",
+    "\\frontend",
+    "\\frontend\\static",
+    "\\frontend\\static\\imgs",
+    "\\frontend\\static\\js",
+    "\\frontend\\templates",
+    "\\frontend\\templates\\registration"
+  ],
+  "SelectedNode": "\\clicker\\wsgi.py",
+  "PreviewInSolutionExplorer": false
+}
